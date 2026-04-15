@@ -1,29 +1,31 @@
 # Olá, eu sou o João Vitor Silverio! 👋
 
-### 🚀 Software Engineer | .NET Specialist
+### 🚀 Software Engineer | .NET & Java Specialist
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maringá-Paraná-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
   <img src="https://img.shields.io/badge/Software-Engineer-brightgreen?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Cargo">
 </p>
 
-Sou Desenvolvedor de Software focado no ecossistema **.NET**. Natural de Maringá, busco constantemente criar soluções robustas e escaláveis, aplicando as melhores práticas de engenharia de software.
+Engenheiro de Software focado em soluções escaláveis, com sólida experiência no ecossistema **.NET** e trânsito por tecnologias modernas de Fullstack. Natural de Maringá, PR.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="45" title="Power BI" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
 ---
