@@ -24,7 +24,7 @@ Engenheiro de Software focado em soluções escaláveis, com sólida experiênci
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="45" title="Power BI" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
@@ -33,7 +33,8 @@ Engenheiro de Software focado em soluções escaláveis, com sólida experiênci
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorsilverio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsilverio&layout=compact&langs_count=7&theme=dracula" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsilverio&layout=default&langs_count=7&theme=dracula" />
 </p>
 
 <p align="center">
@@ -45,7 +46,7 @@ Engenheiro de Software focado em soluções escaláveis, com sólida experiênci
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovitorsilverio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seu-email@exemplo.com" target="_blank">
