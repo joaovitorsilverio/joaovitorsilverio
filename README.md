@@ -24,7 +24,7 @@ Engenheiro de Software focado em soluções escaláveis, com sólida experiênci
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="45" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
