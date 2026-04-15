@@ -1,54 +1,57 @@
 # Olá, eu sou a Larissa Kich! 👋
 
-### Desenvolvedora Fullstack | Criadora de Conteúdo Tech
+### 🚀 Desenvolvedora Fullstack | Creator @larissakich | Estudante de ADS na PUCRS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rio%20Grande%20do%20Sul-Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/PUCRS-ADS-maroon?style=flat-square&logo=education&logoColor=white" alt="Educação">
-</p>
-
-Sou apaixonada por tecnologia e educação. Formada como técnica em informática pelo IFRS e atualmente graduanda em **Análise e Desenvolvimento de Sistemas na PUCRS**. No meu tempo livre, compartilho conhecimento para ajudar outros devs a construírem o futuro da web.
-
----
-
-### 🚀 Conecte-se Comigo
-
-<p align="left">
-  <a href="https://www.youtube.com/@larissakich?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/dev_em_dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+Sou apaixonada por transformar ideias em código e compartilhar esse processo com o mundo. Natural do RS, técnica pelo IFRS e sempre em busca de novos desafios no ecossistema web.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+Aqui estão as tecnologias que utilizo para construir meus projetos:
 
 <p align="left">
-  <img title="HTML5" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img title="React" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="Node.js" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="Git" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" />
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=visual_studio_code" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🎥 Últimos Vídeos no YouTube
-* [Como criar um projeto Web do zero](https://www.youtube.com/@larissakich)
-* [Dicas de estudo para ADS](https://www.youtube.com/@larissakich)
+### 📫 Vamos conversar?
+
+<p align="left">
+  <a href="https://www.youtube.com/@larissakich?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dev_em_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+</p>
