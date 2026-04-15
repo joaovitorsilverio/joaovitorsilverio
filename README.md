@@ -2,23 +2,21 @@
 
 ### 🚀 Desenvolvedora Fullstack | Creator @larissakich | Estudante de ADS na PUCRS
 
-Sou apaixonada por transformar ideias em código e compartilhar esse processo com o mundo. Natural do RS, técnica pelo IFRS e sempre em busca de novos desafios no ecossistema web.
+Sou apaixonada por tecnologia e educação. Técnica em informática pelo IFRS e graduanda na PUCRS, compartilho minha jornada e projetos no YouTube e Instagram para inspirar a comunidade dev.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-Aqui estão as tecnologias que utilizo para construir meus projetos:
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="45" title="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" />
 </p>
 
@@ -36,7 +34,7 @@ Aqui estão as tecnologias que utilizo para construir meus projetos:
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.youtube.com/@larissakich?sub_confirmation=1" target="_blank">
@@ -53,5 +51,5 @@ Aqui estão as tecnologias que utilizo para construir meus projetos:
 ---
 
 <p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.svg" alt="Snake Game" />
 </p>
